@@ -15,7 +15,7 @@ import React, { useEffect, useState } from 'react';
 import Board from './components/Board';
 import './App.css';
 
-const STORAGE_KEY = 'haider-airtribe';
+const STORAGE_KEY = 'divyanshu-airtribe';
 
 const defaultData = {
   statuses: [
